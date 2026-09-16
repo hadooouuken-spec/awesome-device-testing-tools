@@ -26,6 +26,8 @@ Maintained by [nasirazizawan009](https://github.com/nasirazizawan009).
 - [Stuck Key Test](https://keyboardtester.click/stuck-key-test.php) - Check for stuck or unresponsive keys.
 - [Typing Test](https://keyboardtester.click/keyboard_typing_test.php) - Words-per-minute and accuracy measurement.
 
+- [DeviceCheck HQ Keyboard Tester](https://devicecheckhq.com/) - Every-key tester with ANSI/ISO/60% layouts, simultaneous-key (rollover) counter, key repeat and chatter timing. Free, no login, runs in the browser.
+
 ## Mouse
 
 - [Mouse Tester](https://keyboardtester.click/mouse-test.php) - Left/right/middle click and scroll-wheel verification.
@@ -36,6 +38,8 @@ Maintained by [nasirazizawan009](https://github.com/nasirazizawan009).
 - [Double Click Test](https://keyboardtester.click/double-click-test.php) - Verify double-click registration.
 - [Latency Checker](https://keyboardtester.click/latency-checker.php) - Measure input lag.
 
+- [DeviceCheck HQ Mouse Tester](https://devicecheckhq.com/mouse-tester/) - Buttons, scroll wheel, double-click bounce detection and polling-rate estimate.
+
 ## Monitor / Display
 
 - [Screen Test](https://keyboardtester.click/screentestindex.php) - Solid color, gradient, and pattern test screens.
@@ -44,6 +48,9 @@ Maintained by [nasirazizawan009](https://github.com/nasirazizawan009).
 - [Black Screen Test](https://keyboardtester.click/black-screen-test.php) - Reveal backlight bleed and uniformity issues.
 - [White Screen Test](https://keyboardtester.click/white-screen-test.php) - Detect dust, smudges, and stuck pixels.
 - [Monitor Sharpness Test](https://keyboardtester.click/monitor-sharpness-test.php) - Lagom-style 1-pixel grid plus RGB sub-pixel ruler.
+
+- [DeviceCheck HQ Dead Pixel Test](https://devicecheckhq.com/dead-pixel-test/) - Full-screen colour and gray swatches with a stuck-pixel fixer; works on phones too.
+- [DeviceCheck HQ Touch Screen Test](https://devicecheckhq.com/touch-screen-test/) - Multi-touch trails, dead-zone grid and ghost-touch watch mode.
 
 ## Webcam
 
